@@ -1,0 +1,109 @@
+[
+  {
+    "key": "together",
+    "name": "TOGETHER",
+    "website": "https://together-euproject.eu/",
+    "logoPath": "/assets/research/together.png",
+    "logoSource": "https://together-euproject.eu/wp-content/uploads/2026/01/together-logo-transparent-background.png"
+  },
+  {
+    "key": "mediate",
+    "name": "MEDiate",
+    "website": "https://mediate-project.eu/",
+    "logoPath": "/assets/research/mediate.jpg",
+    "logoSource": "https://mediate-project.eu/wp-content/uploads/2022/11/Logo-Mediate-300.jpg"
+  },
+  {
+    "key": "cmine",
+    "name": "CMINE",
+    "website": "https://www.cmine.eu/",
+    "logoPath": "/assets/research/cmine.webp",
+    "logoSource": "https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/436/networks/436/wide-c972ebd05e0e0173814a54087f13016a.webp"
+  },
+  {
+    "key": "turnkey",
+    "name": "TURNkey",
+    "website": "https://earthquake-turnkey.eu/",
+    "logoPath": "/assets/research/turnkey.png",
+    "logoSource": "https://earthquake-turnkey.eu/wp-content/uploads/2019/07/Logo-TURNkey_500g.png"
+  },
+  {
+    "key": "c2impress",
+    "name": "C2IMPRESS",
+    "website": "https://www.c2impress.com",
+    "logoPath": "/assets/research/c2impress.png",
+    "logoSource": "https://www.c2impress.com/web/image/website/1/logo/C2IMPRESS?unique=963adb2"
+  },
+  {
+    "key": "gobeyond",
+    "name": "Gobeyond",
+    "website": "https://gobeyond-project.eu/",
+    "logoPath": "/assets/research/gobeyond.png",
+    "logoSource": "https://gobeyond-project.eu/wp-content/uploads/2024/07/Gobeyond-Logo-with-baseline-Monochrome-negative-e1720522543433.png",
+    "logoBackground": "dark"
+  },
+  {
+    "key": "driver-plus",
+    "name": "Driver+",
+    "website": "https://www.driver-project.eu/",
+    "logoPath": "/assets/research/driver-plus.png",
+    "logoSource": "https://driver-project.eu/wp-content/uploads/2017/11/driver-logo.png"
+  },
+  {
+    "key": "engage",
+    "name": "engage",
+    "website": "https://www.project-engage.eu",
+    "logoPath": "/assets/research/engage.png",
+    "logoSource": "https://www.project-engage.eu/wp-content/uploads/2020/11/ENGAGE_logo_plain-1.png"
+  },
+  {
+    "key": "synergies",
+    "name": "Synergies",
+    "website": "https://synergiesproject.eu",
+    "logoPath": "/assets/research/synergies.png",
+    "logoSource": "https://synergiesproject.eu/wp-content/uploads/2024/04/synergies_project_logo.png"
+  },
+  {
+    "key": "paratus",
+    "name": "Paratus",
+    "website": "https://www.paratus-project.eu",
+    "logoPath": "/assets/research/paratus.png",
+    "logoSource": "https://www.paratus-project.eu/wp-content/uploads/2023/01/paratus-logo-150x90-1.png"
+  },
+  {
+    "key": "anywhere",
+    "name": "ANYWHERE",
+    "website": "http://anywhere-h2020.eu",
+    "logoPath": "/assets/research/anywhere.png",
+    "logoSource": "http://anywhere-h2020.eu/wp-content/uploads/2019/05/logo_blanc_sticky.png",
+    "logoBackground": "dark"
+  },
+  {
+    "key": "links",
+    "name": "Links",
+    "website": "https://links-project.eu",
+    "logoPath": "/assets/research/links.png",
+    "logoSource": "https://links-project.eu/wp-content/uploads/thegem/logos/logo_844f04a1b08c3a1bc132bd8928cb9561_1x.png"
+  },
+  {
+    "key": "direktion",
+    "name": "DIREKTION",
+    "website": "https://www.direktion-network.org",
+    "logoPath": "/assets/research/direktion.png",
+    "logoSource": "https://static.wixstatic.com/media/7bab55_d137f96282c047a48c21c72ccbeaf59c~mv2.png"
+  },
+  {
+    "key": "riskpacc",
+    "name": "RiskPACC",
+    "website": "https://www.riskpacc.eu",
+    "logoPath": "/assets/research/riskpacc.png",
+    "logoSource": "https://www.riskpacc.eu/wp-content/uploads/2021/07/cropped-cropped-RiskPACC_Logo_Final.png"
+  },
+  {
+    "key": "aristotle-enhsp",
+    "name": "ARISTOTLE-ENHSP",
+    "website": "http://aristotle.ingv.it",
+    "logoPath": "/assets/research/aristotle-enhsp.png",
+    "logoSource": "http://aristotle.ingv.it/img/spada/logoaristotle_header.png"
+  }
+]

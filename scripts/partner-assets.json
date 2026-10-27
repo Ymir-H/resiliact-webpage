@@ -1,0 +1,234 @@
+[
+  {
+    "name": "NORSAR",
+    "country": "Norway",
+    "_key": "coordinator",
+    "partnerKey": "norsar",
+    "website": "https://www.norsar.no/",
+    "logoPath": "/assets/partners/norsar-transparent.svg",
+    "logoSource": "https://no.wikipedia.org/wiki/Fil:Norsar_logo.svg",
+    "logoBackground": "transparent"
+  },
+  {
+    "_key": "partner-0",
+    "name": "City of Oslo",
+    "country": "Norway",
+    "partnerKey": "oslo",
+    "website": "https://www.oslo.kommune.no/",
+    "logoPath": "/assets/partners/oslo.svg",
+    "logoSource": "https://www.oslo.kommune.no/",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-1",
+    "name": "Norwegian Meteorological Institute",
+    "country": "Norway",
+    "partnerKey": "met",
+    "website": "https://www.met.no/",
+    "logoPath": "/assets/partners/met.svg",
+    "logoSource": "https://www.met.no/_/image/06766f5d-3a93-405b-a04f-0e245ea9c10f:14293f122ca4397b43bf34a35ac5e63471caac6a/height-51/met-logo.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-2",
+    "name": "Capital Region Fire Department",
+    "country": "Iceland",
+    "partnerKey": "shs",
+    "website": "https://www.shs.is/",
+    "logoPath": "/assets/partners/shs.svg",
+    "logoSource": "https://www.shs.is/",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-3",
+    "name": "Icelandic Meteorological Office",
+    "country": "Iceland",
+    "partnerKey": "vedur",
+    "website": "https://en.vedur.is/",
+    "logoPath": "/assets/partners/vedur.svg",
+    "logoSource": "https://www.vedur.is/skin/basic/design/i/sitelogo-en.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-4",
+    "name": "City of Stockholm",
+    "country": "Sweden",
+    "partnerKey": "stockholm",
+    "website": "https://start.stockholm/",
+    "logoPath": "/assets/partners/stockholm.svg",
+    "logoSource": "https://start.stockholm/ui/assets/img/logotype.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-5",
+    "name": "Finnish Meteorological Institute",
+    "country": "Finland",
+    "partnerKey": "fmi",
+    "website": "https://en.ilmatieteenlaitos.fi/",
+    "logoPath": "/assets/partners/fmi.svg",
+    "logoSource": "https://en.ilmatieteenlaitos.fi/v3.0.0/_nuxt/il-logo-en-posa.C9KZq_xR.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-6",
+    "name": "City of Lisbon",
+    "country": "Portugal",
+    "partnerKey": "lisbon",
+    "website": "https://www.lisboa.pt/",
+    "logoPath": "/assets/partners/lisbon-identity.svg",
+    "logoSource": "https://www.lisboa.pt/en/municipality/city-hall/graphic-identity",
+    "logoBackground": "white",
+    "logoDownloadSource": "https://upload.wikimedia.org/wikipedia/commons/c/cd/C%C3%A2mara_Municipal_de_Lisboa_logo.svg"
+  },
+  {
+    "_key": "partner-7",
+    "name": "Region of Attica",
+    "country": "Greece",
+    "partnerKey": "attica",
+    "website": "https://athensattica.com/highlights/municipalities/",
+    "logoPath": "/assets/partners/attica.png",
+    "logoSource": "https://gobeyond-project.eu/wp-content/uploads/2024/04/ATT-logo-250x250-1.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-8",
+    "name": "City of Brussels",
+    "country": "Belgium",
+    "partnerKey": "brussels",
+    "website": "https://www.brussels.be/",
+    "logoPath": "/assets/partners/brussels.png",
+    "logoSource": "https://www.brussels.be/sites/default/files/logo_vbx.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-9",
+    "name": "TENENET",
+    "country": "Slovakia",
+    "partnerKey": "tenenet",
+    "website": "https://www.tenenet.sk/",
+    "logoPath": "/assets/partners/tenenet.png",
+    "logoSource": "https://static.wixstatic.com/media/ae809e_cae59e2ee0bd4cc8ae1d971ca1945992~mv2.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-10",
+    "name": "Technovative Solutions",
+    "country": "United Kingdom",
+    "partnerKey": "tvs",
+    "website": "https://www.technovativesolutions.co.uk/",
+    "logoPath": "/assets/partners/tvs-linkedin.jpg",
+    "logoSource": "https://uk.linkedin.com/company/technovative-solutions-ltd",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-11",
+    "name": "Resilience Advisors",
+    "country": "United Kingdom",
+    "partnerKey": "ran",
+    "website": "https://www.resilienceadvisors.eu/",
+    "logoPath": "/assets/partners/ran.png",
+    "logoSource": "https://www.resilienceadvisors.eu/img/ran_logo2.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-12",
+    "name": "European Emergency Number Association",
+    "country": "Belgium",
+    "partnerKey": "eena",
+    "website": "https://eena.org/",
+    "logoPath": "/assets/partners/eena-conference.png",
+    "logoSource": "https://eenaconference.org/",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-13",
+    "name": "CODATA",
+    "country": "France",
+    "partnerKey": "codata",
+    "website": "https://codata.org/",
+    "logoPath": "/assets/partners/codata.png",
+    "logoSource": "https://codata.org/wp-content/uploads/2019/12/codata_new_logo-1.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-14",
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "partnerKey": "cambridge",
+    "website": "https://www.cam.ac.uk/",
+    "logoPath": "/assets/partners/cambridge.svg",
+    "logoSource": "https://www.cam.ac.uk/themes/custom/fresh/images/interface/cambridge_university2.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-15",
+    "name": "NTNU Social Research",
+    "country": "Norway",
+    "partnerKey": "samforsk",
+    "website": "https://samforsk.no/en/",
+    "logoPath": "/assets/partners/samforsk.svg",
+    "logoSource": "https://samforsk.no/resources/img/logo.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-16",
+    "name": "INERIS Développement",
+    "country": "France",
+    "partnerKey": "ineris",
+    "website": "https://www.ineris-developpement.com/fr",
+    "logoPath": "/assets/partners/ineris.png",
+    "logoSource": "https://static.wixstatic.com/media/7bab55_f56c9113fb6041db8ad5f621b15daed0~mv2.png",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-17",
+    "name": "University of Iceland",
+    "country": "Iceland",
+    "partnerKey": "hi",
+    "website": "https://english.hi.is/",
+    "logoPath": "/assets/partners/hi.svg",
+    "logoSource": "https://english.hi.is/",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-18",
+    "name": "National Delegation for Major Risks",
+    "country": "Algeria",
+    "partnerKey": "dnrm",
+    "website": "https://interieur.gov.dz/delegation-nationale-aux-risques-majeurs/",
+    "logoPath": "/assets/partners/dnrm.jpg",
+    "logoSource": "https://interieur.gov.dz/wp-content/uploads/2025/10/cropped-549160908_1253679926802055_7139711205682662553_n-e1759419335360.jpg",
+    "logoBackground": "white",
+    "logoNote": "Official Ministry of Interior emblem used for its National Delegation for Major Risks."
+  },
+  {
+    "_key": "partner-19",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "partnerKey": "porto",
+    "website": "https://www.up.pt/portal/en/",
+    "logoPath": "/assets/partners/porto.svg",
+    "logoSource": "https://www.up.pt/portal/en/",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-20",
+    "name": "Essex County Council",
+    "country": "United Kingdom",
+    "partnerKey": "essex",
+    "website": "https://www.essex.gov.uk/",
+    "logoPath": "/assets/partners/essex.svg",
+    "logoSource": "https://www.essex.gov.uk/themes/custom/ecc_theme_gov/assets/images/ECC_logo_long_red.svg",
+    "logoBackground": "white"
+  },
+  {
+    "_key": "partner-21",
+    "name": "Hovedstadens Beredskab",
+    "country": "Denmark",
+    "partnerKey": "hbr",
+    "website": "https://hbr.dk/",
+    "logoPath": "/assets/partners/hbr.svg",
+    "logoSource": "https://hbr.dk/wp-content/themes/hbr/assets/dist/icons/HBR_Logo.svg",
+    "logoBackground": "white"
+  }
+]

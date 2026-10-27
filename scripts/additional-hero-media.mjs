@@ -1,0 +1,9 @@
+export const additionalHeroMedia = [
+  {id: 33643163, slug: 'wildfire-aerial', title: 'Wildfire — aerial blaze', creator: 'K', page: 'dramatic-aerial-view-of-fiery-blaze', alt: 'Aerial view of an intense fire with flames and smoke'},
+  {id: 33780058, slug: 'flood', title: 'Flood — residential area', creator: 'Imad Clicks', page: 'aerial-view-of-flooded-residential-area', alt: 'Aerial view of floodwater surrounding a residential area'},
+  {id: 35466235, slug: 'volcanic', title: 'Volcanic activity — Icelandic lava', creator: 'Gylfi Gylfason', page: 'aerial-view-of-flowing-lava-through-icelandic-terrain', alt: 'Aerial view of lava flowing through Icelandic terrain'},
+  {id: 28800889, slug: 'landslide', title: 'Landslide risk — forest and village', creator: 'Tom Schönmann', page: 'aerial-view-of-verdant-forest-and-village', alt: 'Aerial view of a green forest and nearby village'},
+  {id: 15554615, slug: 'earthquake', title: 'Earthquake — Syria', creator: 'osama naser', page: 'syria-earthquake', alt: 'Aerial view of earthquake rubble and rescue activity in an urban area'},
+  {id: 9481659, slug: 'heavy-rain', title: 'Heavy rain — flooded street', creator: 'Lone Pictures', page: 'cars-drive-through-a-flooded-street-at-night', alt: 'Cars travelling through a flooded street at night during heavy rain'},
+  {id: 33643171, slug: 'heatwave', title: 'Heatwave — grassland fire', creator: 'K', page: 'aerial-view-of-grassland-fire-at-sunset', alt: 'Aerial view of a grassland fire at sunset'},
+].map(item => ({...item, _key: `pexels-${item.id}`, _type: 'heroMediaItem', mediaType: 'video', mediaUrl: `/assets/hero-${item.slug}.mp4`, posterUrl: `/assets/hero-${item.slug}-poster.jpg`, credit: `Video by ${item.creator} from Pexels`, creditUrl: `https://www.pexels.com/video/${item.page}-${item.id}/`}))

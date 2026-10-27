@@ -1,0 +1,19 @@
+{
+  "name": "resiliact-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sanity dev --host 127.0.0.1 --port 3333",
+    "build": "sanity build",
+    "deploy": "sanity deploy --yes --schema-required",
+    "login": "sanity login",
+    "projects": "sanity projects list"
+  },
+  "dependencies": {
+    "sanity": "6.17.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "styled-components": "^6.1.19"
+  }
+}
